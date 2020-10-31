@@ -1,0 +1,5 @@
+C:\Users\Ellie\source\repos\RepoDITesting\BankingAppExceptions\bin\Debug\BankingAppExceptions.dll
+C:\Users\Ellie\source\repos\RepoDITesting\BankingAppExceptions\bin\Debug\BankingAppExceptions.pdb
+C:\Users\Ellie\source\repos\RepoDITesting\BankingAppExceptions\obj\Debug\BankingAppExceptions.csproj.CoreCompileInputs.cache
+C:\Users\Ellie\source\repos\RepoDITesting\BankingAppExceptions\obj\Debug\BankingAppExceptions.dll
+C:\Users\Ellie\source\repos\RepoDITesting\BankingAppExceptions\obj\Debug\BankingAppExceptions.pdb

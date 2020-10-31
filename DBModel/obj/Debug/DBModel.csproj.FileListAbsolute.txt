@@ -1,0 +1,12 @@
+C:\Users\Ellie\source\repos\RepoDITesting\DBModel\bin\Debug\DBModel.dll.config
+C:\Users\Ellie\source\repos\RepoDITesting\DBModel\bin\Debug\DBModel.dll
+C:\Users\Ellie\source\repos\RepoDITesting\DBModel\bin\Debug\DBModel.pdb
+C:\Users\Ellie\source\repos\RepoDITesting\DBModel\bin\Debug\EntityFramework.dll
+C:\Users\Ellie\source\repos\RepoDITesting\DBModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ellie\source\repos\RepoDITesting\DBModel\bin\Debug\EntityFramework.xml
+C:\Users\Ellie\source\repos\RepoDITesting\DBModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ellie\source\repos\RepoDITesting\DBModel\obj\Debug\DBModel.csproj.CoreCompileInputs.cache
+C:\Users\Ellie\source\repos\RepoDITesting\DBModel\obj\Debug\DBModel.csproj.CopyComplete
+C:\Users\Ellie\source\repos\RepoDITesting\DBModel\obj\Debug\DBModel.dll
+C:\Users\Ellie\source\repos\RepoDITesting\DBModel\obj\Debug\DBModel.pdb
+C:\Users\Ellie\source\repos\RepoDITesting\DBModel\obj\Debug\DBModel.csprojAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Users\Ellie\source\repos\RepoDITesting\BankingApp\bin\Debug\BankingApp.dll
+C:\Users\Ellie\source\repos\RepoDITesting\BankingApp\bin\Debug\BankingApp.pdb
+C:\Users\Ellie\source\repos\RepoDITesting\BankingApp\obj\Debug\BankingApp.csprojAssemblyReference.cache
+C:\Users\Ellie\source\repos\RepoDITesting\BankingApp\obj\Debug\BankingApp.csproj.CoreCompileInputs.cache
+C:\Users\Ellie\source\repos\RepoDITesting\BankingApp\obj\Debug\BankingApp.dll
+C:\Users\Ellie\source\repos\RepoDITesting\BankingApp\obj\Debug\BankingApp.pdb
+C:\Users\Ellie\source\repos\RepoDITesting\BankingApp\bin\Debug\BankingAppExceptions.dll
+C:\Users\Ellie\source\repos\RepoDITesting\BankingApp\bin\Debug\BankingAppExceptions.pdb
+C:\Users\Ellie\source\repos\RepoDITesting\BankingApp\obj\Debug\BankingApp.csproj.CopyComplete
